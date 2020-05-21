@@ -1,0 +1,63 @@
+/* My Awesome Styles */
+/* External styling from: https://codepen.io/manikoth/pen/NNNBYe.css
+ */
+
+/* Doodle Stage */
+#stage {
+    background: #000;
+    height: 300px;
+    width: 600px;
+    
+    position: relative;
+    overflow: hidden;
+  }
+  
+  h1 {
+    position: absolute;
+    color: white;
+    font-size: 5em;
+    top: 50px;
+    left: 175px;
+  }
+  
+  /* TL moving Monst. */
+  #Monstera1 {
+    fill: darkolivegreen;
+    position: absolute;
+    left: 75px;
+    top: -30px;
+  }
+  
+  /* BG moving Monst. */
+  #Monstera {
+    fill: darkolivegreen;
+    position: absolute;
+    left: 20px;
+    top: 80px;
+  }
+  
+  
+  /* BR moving Monst. */
+  #Monstera2 {
+    fill: olivedrab;
+    position: absolute;
+    left: 300px;
+    top: 50px;
+  }
+  
+  
+  #jungle1 {
+    width: 650px;
+    height: 350px;
+    position: absolute;
+    left: -50px;
+    top: -50px;
+  }
+  
+  #vines {
+    width: 650px;
+    height: 350px;
+    position: absolute;
+    left: -50px;
+    top: -50px;
+  }
